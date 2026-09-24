@@ -1,4 +1,4 @@
-#Jenkins CI/CD Demo
+##Jenkins CI/CD Demo
 
 A small Java application used for the Week 5 Jenkins, CI/CD and GitHub Integration assignment.
 
